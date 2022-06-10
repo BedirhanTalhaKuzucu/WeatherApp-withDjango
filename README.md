@@ -1,3 +1,5 @@
+# WeatherApp-withDjango
+
 # Spin up the project
 
 - Clone the template project to your local:
@@ -65,3 +67,4 @@ py manage.py runserver  # or;
 python manage.py runserver  # or;
 python3 manage.py runserver
 ```
+
